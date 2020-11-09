@@ -138,6 +138,11 @@ var img45 = document.getElementById("myImg45");
 var img46 = document.getElementById("myImg46");
 var img47 = document.getElementById("myImg47");
 var img48 = document.getElementById("myImg48");
+var img49 = document.getElementById("myImg49");
+var img50 = document.getElementById("myImg50");
+var img51 = document.getElementById("myImg51");
+var img52 = document.getElementById("myImg52");
+var img53 = document.getElementById("myImg53");
 
 
 var modalImg = document.getElementById("img01");
